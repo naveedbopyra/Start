@@ -3,7 +3,7 @@
   "name":"NAVEED-MD",
   "description":"Best whatsapp bot developed by NAVEED",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/h2ydge.jpg",
+  "logo":"https://files.catbox.moe/h3yi0r.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -78,14 +78,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
+      "value":"NAVEED-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/h2ydge.jpg",
+      "value":"https://files.catbox.moe/h3yi0r.jpg",
       "required":false
        
      },
@@ -109,7 +109,7 @@
     {
       
     "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
-      "value":"",
+      "value":"923143084544",
     "required":true
       
     },
@@ -118,7 +118,7 @@
     
     "desc": "Owner name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "NAVEED"
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
