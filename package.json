@@ -1,6 +1,6 @@
 
 {
-  "name": "Bwm-xmd",
+  "name": "Naveed-md",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -19,9 +19,9 @@
     "bmw",
     "whatsapp",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "Naveed"
    ],
-  "author": "Ibrahim Adams",
+  "author": "Naveed",
   "license": "ISC",
   "engines": {
     "node": "18.x",
